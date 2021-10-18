@@ -1,0 +1,43 @@
+Goal: to a get a good working knowledge of the technologies
+
+Tasks
+Learn, understand and explain the basic definitions and purpose of the following
+Github
+Repository
+Sphinx 
+Sphinx Github repository
+ReadtheDocs
+RST
+Pull request
+Set up a Sphinx Github repository (this can be a repository for your notes)
+Get said Sphinx Github repository to display on ReadtheDocs
+Understand and describe what it means to have notes in RST using Sphinx 
+Ensure that notes are written in RST using Sphinx
+Add Audrow to to Sphinx Github repository
+
+Determine how to create an index page and then sub pages with notes on specific areas (Git, Python, etc.). 
+Make Pull Requests (PR) to the repository when adding things - and tag Audrow as a reviewer on PR.
+Add some code examples to your repository
+Host your page on https://readthedocs.org/
+Look at https://remind-me-some.readthedocs.io/en/latest/ as an example
+
+Learn Git version control features
+Add
+Commit
+Push
+pull 
+General workflow for putting code online
+Branch / remotes - Where code is stored
+Pull request / review process - Contributing code
+Learn Restructured text (RST) / Sphinx - Python documentation
+Learn Basic linux command line commands
+Pwd
+Ls
+Cd
+Mv
+cp
+Learn basic Python & C++
+  Variables
+  Program flow (if-else, for loops, while loops)
+  Functions
+  Classes
