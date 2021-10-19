@@ -1,35 +1,21 @@
 # learning-webdev
 
-This repsitory will be a place for me to document my path as I learn web dev.
+This repsitory will be a place for me to document my path as I learn to do techncial writing in robotics.
 
 ## Background and motivation
 
 ### What have I tried?
 
 My intention with this repository is to have a central place to store what I
-learn about web dev. Previously, I have tried several methods of learning and
+learn about technical writing. Previously, I have tried several methods of learning and
 retaining information. This has included
 
-- Spaced repetition
-- Various tears of note taking
-- Reading a lot and only taking the big ideas away
+- Spaced repetition from different sources (Hearing the same content shared by different instructors)
+- Reading a lot to get some footing on the basic vocabulary.
 
-None of these has been particularly satisfactory to me.
+The learning curve is still pretty steep.
 
-I found spaced reptition to be great for remembering facts but not how to apply
-concepts. It is also not clear how to make useful cards for programming topics.
-Also, it is easy to hide misunderstanding with memorization.
-
-By tears of notetaking, I mean read a book, extract my notes, then gradually
-organize and condense those notes. I do like this process. Although, it is not
-engaging enough: I read the full book, then look for patterns. I believe to
-learn better I should be actively engaging with the content throughout.
-
-Reading a lot was just a waste of time for me. I can read an idea many times
-without understanding it or engaging with it in a meaningful way. In the end, I
-just end up getting caught up on all the information to memorize without truely
-understanding what I'm reading. Needless to say, there are better ways of
-learning.
+[More comments to be added later] 
 
 ### What am I trying now?
 
