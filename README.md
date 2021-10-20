@@ -1,6 +1,6 @@
 # Learning Technical Writing
 
-This repsitory will be a place for me to document my path as I learn to do techncial writing in robotics.
+This repository will be a place for me to document my path as I learn to do techncial writing in robotics.
 
 ## Background and motivation
 
